@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">rating</string>
+    <string name="how_likely_are_you_to_recommend_our_service">How likely are you to recommend our service?</string>
+    <string name="rate">Very Well</string>
+    <string name="slide">Slide left to right to rate</string>
+</resources>
